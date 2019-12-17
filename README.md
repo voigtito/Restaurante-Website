@@ -1,6 +1,6 @@
 <h1> Restaurante Website </h1>
 
-<p>Este código foi desenvolvido durante o <a href="https://www.udemy.com/course/responsive-web-design-tutorial-course-html5-css3-bootstrap/">curso</a> na Udemy desenvolvido por: <b>Daniel Walter Scott</b></p>
+<p>Este código foi desenvolvido durante o <a href="https://www.udemy.com/course/responsive-web-design-tutorial-course-html5-css3-bootstrap/">curso</a> na Udemy reproduzido por: <b>Daniel Walter Scott</b></p>
 
 <p>Este foi meu primeiro site produzido através do curso, consiste em aplicação de conceitos básicos de HTML e CSS. Recomendo extremamente o curso, pois a didática do professor é incrível!</p>
 :raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands::raised_hands:
